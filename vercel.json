@@ -5,7 +5,7 @@
       "destination": "/api/_proxy/images/:path*"
     },
     {
-      "source": "/:path*",
+      "source": "/((?!api/).*)",
       "destination": "/index.html"
     }
   ]
