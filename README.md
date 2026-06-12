@@ -3,7 +3,7 @@
 Spring Boot 백엔드와 연동되는 이커머스 프론트엔드. React + Vite 기반 SPA로 상품 탐색, 장바구니, 주문, Stripe 결제, 회원 인증 UI를 제공합니다.
 
 - 🖥️ **백엔드 레포**: [ecommerce-backend](https://github.com/Dawit-lee/ecommerce-backend)
-- 🚀 **라이브 데모**: <!-- TODO: Vercel 배포 후 도메인 입력 -->
+- 🚀 **라이브 데모**: https://ecommerce-backend-gules-eight.vercel.app
 
 ---
 
